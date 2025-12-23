@@ -8,9 +8,7 @@ BOM
 | 1x       | GMK Keycaps                                        |$26    |https://www.aliexpress.com/item/1005005253907295.html|
 | 1x       | ST-Link V2                                         |$5     |https://www.aliexpress.com/item/1005009428023985.html|
 | 1x       | Holyiot 18010 BLE Microcontroller                  |$7     |https://www.aliexpress.com/item/32868002366.html|
-
 | 1x       | Keyboard PCB                                       |$67  | NA |
-
 | 100x     | C5149201                                 |$7     |https://www.lcsc.com/product-detail/C5149201.html|
 | 100x     | C49678                                   |$0.5   |https://www.lcsc.com/product-detail/C49678.html|
 | 100x     | C917030                                  |$0.6     |https://www.lcsc.com/product-detail/C917030.html|
